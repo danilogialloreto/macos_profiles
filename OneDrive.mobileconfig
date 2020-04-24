@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures Microsoft OneDrive settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Microsoft OneDrive</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.erikberglund.ProfileCreator.E380E62F-0B20-4FB7-B852-F1CE1CBBBDD5.com.microsoft.OneDrive.3C1545B8-38AC-4BA5-9984-3AF430AA07A3</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.microsoft.OneDrive</string>
+			<key>PayloadUUID</key>
+			<string>3C1545B8-38AC-4BA5-9984-3AF430AA07A3</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Tenants</key>
+			<dict>
+				<key>99f5c844-7eaf-4d36-881f-20829ad20273</key>
+				<dict>
+					<key>DefaultFolder</key>
+					<string>$HOME/OneDrive\ -\ Soldo\ Ltd</string>
+				</dict>
+			</dict>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>onedrive</string>
+	<key>PayloadDisplayName</key>
+	<string>OneDrive</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.erikberglund.ProfileCreator.E380E62F-0B20-4FB7-B852-F1CE1CBBBDD5</string>
+	<key>PayloadOrganization</key>
+	<string>ProfileCreator</string>
+	<key>PayloadScope</key>
+	<string>User</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>E380E62F-0B20-4FB7-B852-F1CE1CBBBDD5</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
